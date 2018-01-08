@@ -8,4 +8,4 @@ def display_board
    puts "   ""|""   ""|""   "
 end
 
-prints display_board
+display_board
